@@ -236,6 +236,7 @@ main{
     
     .Sobre-mim .descricao{
         width: 100% !important;
+        text-align: center;
     }
 
     .Sobre-mim .cards{
